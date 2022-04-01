@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: hotpink;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: yellow;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border-style: groove;
+    border-width: 10px;
+    border-color: teal;
+}
+p{
+    color: lawngreen;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: double;
+    border-width: 10px;
+    border-color: orchid;
+}
